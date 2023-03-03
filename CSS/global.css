@@ -1,0 +1,76 @@
+/* Texts */
+.text-white
+{
+    color: white;
+}
+.text-black
+{
+    color: black;
+}
+.text-center
+{
+    text-align: center;
+}
+.text-bold
+{
+    font-weight: bold;
+}
+/* Colors */
+.bg-color-lightblue
+{
+    background-color: #A0CCDA;
+}
+.bg-color-lightgreen
+{
+    background-color: #7CE577;
+}
+.bg-color-xiketic
+{
+    background-color: #110B11;
+}
+.bg-color-prussianblue
+{
+    background-color: #16324F;
+}
+.bg-color-tuftsblue
+{
+    background-color: #3E92CC;
+}
+.bg-color-darkpurple
+{
+    background-color: #36213E;
+}
+.bg-color-jet
+{
+    background-color: #312F2F;
+}
+.bg-color-tuscany
+{
+    background-color: #BF98A0;
+}
+.bg-color-cottoncandy
+{
+    background-color: #FFC8FB;
+}
+.bg-color-darkorange
+{
+    background-color: #F58F29;
+}
+.bg-color-spanishgray
+{
+    background-color: #8D918B;
+}
+.bg-color-indepence
+{
+    background-color: #465775;
+}
+/* Float */
+.left
+{
+    float: left;
+}
+/* Font */
+body
+{
+    font-family: monospace;
+}

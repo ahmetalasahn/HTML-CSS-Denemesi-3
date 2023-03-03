@@ -1,0 +1,222 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header1
+{
+    display: flex;
+    flex-direction: row;
+}
+.h1
+{
+    margin-top: 25px;
+    margin-left: 450px;
+}
+.a1
+{
+    text-decoration: none;
+    font-size: 27px;
+    margin-top: 25px;
+    margin-left: 550px;
+}
+.a2
+{
+    text-decoration: none;
+    font-size: 27px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.section1
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.img1
+{
+    border-radius: 15px;
+    margin-left: 450px;
+}
+.img2
+{
+    margin-left: 35px;
+    border-radius: 15px;
+}
+.img3
+{
+    margin-left: 25px;
+    border-radius: 15px;
+}
+.section2
+{
+    display: flex;
+    flex-direction: column;
+}
+.pictures2
+{
+    margin-top: 145px;
+}
+.section3
+{
+    display: flex;
+    margin-top: 55px;
+}
+.article1
+{
+    border-radius: 15px;
+    margin: 25px;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+    margin-left: 450px;
+}
+.article2
+{
+    border-radius: 15px;
+    margin: 25px;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+    margin-left: 50px;
+}
+.article3
+{
+    border-radius: 15px;
+    margin: 25px;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+    margin-left: 50px;
+}
+.p1
+{
+    padding: 15px;
+}
+.order1
+{
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.toplu
+{
+    display: flex;
+    flex-direction: row;
+}
+.button
+{
+    margin-top: 25px;
+    margin-left: -5px;
+    border-radius: 10px;
+}
+.section4
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 420px;
+}
+.pizza1
+{
+    padding: 15px;
+    margin: 15px;
+}
+.pizza2
+{
+    padding: 15px;
+    margin: 15px;
+    
+}
+.pizza3
+{
+    padding: 15px;
+    margin: 15px;
+}
+.imgg
+{
+    border-radius: 10px;
+    width: 290px;
+    height: 200px;
+}
+.imgg2
+{
+    border-radius: 10px;
+    width: 290px;
+    height: 200px;
+    margin-left: 15px;
+}
+.pizza2p
+{
+    margin-left: 15px;
+}
+.yazi2
+{
+    margin-left: 15px;
+}
+.order2
+{
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 18px;
+}
+.order3
+{
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 5px;
+}
+.imgg3
+{
+    border-radius: 10px;
+    width: 290px;
+    height: 200px;
+    margin-left: 15px;
+}
+.h3
+{
+    padding: 15px;
+    font-size: 21px;
+}
+.footer
+{
+    text-align: center;
+    padding-top: 50px;
+}
+.isfirsati
+{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.isf
+{
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.forma
+{
+    padding: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: #7CE577;
+    border: 1px solid #7CE577;
+    border-radius: 15px;
+}
+.forma:hover
+{
+    background-color: white;
+}
+.application
+{
+    margin-top: 45px;
+}
